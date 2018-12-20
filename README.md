@@ -4,7 +4,7 @@ Projects built with the TensorFlow Library to apply  CNN, RNN, etc.
 
 Here are some Deep Learning Projects, most of them built with the Tensorflow Library. 
 
-### 2. [Convolutional Neural Networks with TensorFlow](https://github.com/fingerman/DeepLearning/blob/master/CNN/CNN_with_TensorFlow.ipynb)    
+### 1. [Convolutional Neural Networks with TensorFlow](https://github.com/fingerman/DeepLearning/blob/master/CNN/CNN_with_TensorFlow.ipynb)    
 Dataset: [Oxford Flowers Data Set](https://github.com/fingerman/DeepLearning/tree/master/CNN/17flowers)  
 
 ### 2. [Linear Regression with TensorFlow](https://github.com/fingerman/DeepLearning/blob/master/Linear_Regression_with_Tensorflow.ipynb)  
